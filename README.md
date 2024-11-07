@@ -1,7 +1,7 @@
 # Dungeons and Dragons Dungeon Master Chatbot
 
 ## Overview
-The Dungeons and Dragons Dungeon Master Chatbot is a Streamlit application that serves as an interactive Dungeon Master for D&D campaigns. It generates rich fantasy worlds, creates engaging scenarios, and responds to player actions, providing a unique and immersive tabletop role-playing experience.
+The Dungeons and Dragons Dungeon Master Chatbot is a Streamlit application that is made by Juan Cesar Torres that serves as an interactive Dungeon Master for D&D campaigns. It generates rich fantasy worlds, creates engaging scenarios, and responds to player actions, providing a unique and immersive tabletop role-playing experience.
 
 ## Features
 - **Campaign Creation**: Generate a detailed campaign setting with unique NPCs and plot points.
