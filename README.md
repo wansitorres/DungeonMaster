@@ -11,7 +11,7 @@ The Dungeons and Dragons Dungeon Master Chatbot is a Streamlit application that 
 ## Requirements
 To run this application, you need the a working and valid openai api key
 
-#Sample Usage
+## Sample Usage
 
 Click the Create Campaign Button
 
