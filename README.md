@@ -9,7 +9,8 @@ The Dungeons and Dragons Dungeon Master Chatbot is a Streamlit application that 
 - **Interactive Gameplay**: Players can make choices that influence the story, with the chatbot responding dynamically to their actions.
 
 ## Requirements
-To run this application, you need the a working and valid openai api key
+To run this application, you need a valid OpenAI API key and click the link below:
+https://dungeon-master-wansi.streamlit.app/
 
 ## Sample Usage
 
